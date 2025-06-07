@@ -1,14 +1,3 @@
-
--- Step 5: Create Orders Table (with foreign keys)
-CREATE TABLE orders (
-    order_id INT PRIMARY KEY,
-    customer_id INT FOREIGN KEY REFERENCES customers(customer_id),
-    product_id INT FOREIGN KEY REFERENCES products(product_id),
-    order_date DATE,
-    quantity INT,
-    sales DECIMAL(10,2)
-);
-
 -- Insert Data into Customers
 INSERT INTO customers VALUES
 (1, 'Ali', 'UAE'),
