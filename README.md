@@ -29,6 +29,8 @@ A mini inventory system with customers, products, and orders tables.
 
 ---
 
+![SQL Projects Banner](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%20Projects.png?raw=true)
+
 ### 🚧 [Project2_EmployeeRecords](./Project2_EmployeeRecords)
 
 (Coming soon) A database system for managing employee details, departments, and salaries.
@@ -42,6 +44,7 @@ A mini inventory system with customers, products, and orders tables.
 ---
 
 ## 📌 Tools Used
+![SQL & Azure Projects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%26Azur.png?raw=true)
 
 - **SQL Server Management Studio (SSMS)**  
 - **Azure Data Studio**  
