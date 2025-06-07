@@ -16,7 +16,7 @@ Whether you're a student, aspiring data analyst, or IT professional preparing fo
 - [📁 Projects](#-projects)
 - [🛠 Real-world Scenarios](#-real-world-scenarios)
 - [📈 Practice Datasets](#-practice-datasets)
-- [📚 Resources & References]([ ](https://docs.microsoft.com/en-us/sql/sql-server/) 
+- [📚 Resources & References](#-resources--references)
 
 
 ---
