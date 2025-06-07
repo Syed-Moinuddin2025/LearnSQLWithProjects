@@ -1,29 +1,48 @@
-# LearnSQLWithProjects
-Step-by-step SQL Server guide with beginner-to-advanced queries and practice problems.
- 
-Welcome to **LearnSQLWithProjects** – your go-to repository to **learn SQL Server from scratch** through hands-on examples, real-world projects, and business scenarios.
+# 📊 LearnSQLWithProjects
 
-Whether you're a student, aspiring data analyst, or IT professional preparing for interviews or real use cases — this repository will help you build your SQL skills from **basic to advanced** levels.
+Welcome to **LearnSQLWithProjects** — a hands-on learning repo for practicing SQL queries with real-world scenarios.
 
----
-
-## 📌 Table of Contents
-
-- [🚀 Getting Started](#-getting-started)
-- [📘 SQL Basics](#-sql-basics)
-- [🔄 SQL Joins & Subqueries](#-sql-joins--subqueries)
-- [📊 Aggregations & Grouping](#-aggregations--grouping)
-- [📁 Projects](#-projects)
-- [🛠 Real-world Scenarios](#-real-world-scenarios)
-- [📈 Practice Datasets](#-practice-datasets)
-- [📚 Resources & References](#-resources--references)
-
+This repository is ideal for:
+- SQL beginners building practical experience
+- Data entry clerks, analysts, or aspiring database developers
+- Job seekers preparing for interviews (SSMS, Azure Data Studio)
 
 ---
 
-## 🚀 Getting Started
+## 📁 Projects
 
-1. Make sure you have **SQL Server** installed (or use [Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/)).
-2. Clone the repo:
-   ```bash
-   git clone https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects.git
+### ✅ [Project1_Inventory](./Project1_Inventory)
+
+A mini inventory system with customers, products, and orders tables.
+
+**What you'll learn:**
+- Creating normalized tables with foreign keys
+- Inserting sample data
+- Using different types of SQL JOINs
+
+**Included Files:**
+- [`create_tables.sql`](./Project1_Inventory/create_tables.sql)
+- [`insert_data.sql`](./Project1_Inventory/insert_data.sql)
+- [`join_practice.sql`](./Project1_Inventory/join_practice.sql)
+
+---
+
+## 📌 Tools Used
+
+- **SQL Server Management Studio (SSMS)**
+- **Azure Data Studio**
+- Git & GitHub for version control
+
+---
+
+## 📬 Contact
+
+For any suggestions or collaboration, feel free to reach out:
+
+**GitHub**: [Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)
+
+---
+
+> ⚡ Stay tuned for upcoming projects like:
+> - `Project2_EmployeeRecords`
+> - `Project3_SalesAnalytics`
