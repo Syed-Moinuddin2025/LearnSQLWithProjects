@@ -1,4 +1,6 @@
 # 📊 LearnSQLWithProjects
+<img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLImage.png?raw=true" alt="JOIN Diagram" width="900"/>
+
 
 Welcome to **LearnSQLWithProjects** — a hands-on learning repo for practicing SQL queries with real-world scenarios.
 
