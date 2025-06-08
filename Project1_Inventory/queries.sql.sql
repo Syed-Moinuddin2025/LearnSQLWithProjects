@@ -28,3 +28,46 @@ SELECT
 FROM Categories C
 LEFT JOIN Products P ON C.CategoryID = P.CategoryID
 GROUP BY C.CategoryName;
+
+--💰 5. Total inventory value per category
+SELECT 
+    c.CategoryName ,
+    SUM(P.Price * P.Quantity) AS TotalCategoryValue
+FROM Categories C
+JOIN Products P ON C.CategoryID = P.CategoryID
+GROUP BY CategoryName;
+
+--🧾 6. Show most expensive product in each category
+SELECT 
+    C.CategoryName,
+    P.ProductName,
+    P.Price
+FROM Products P
+JOIN Categories C ON P.CategoryID = C.CategoryID
+WHERE P.Price = (
+    SELECT MAX(P2.Price)
+    FROM Products P2
+    WHERE P2.CategoryID = P.CategoryID
+);
+
+--⏳ 7. Products sorted by Quantity (low to high)
+SELECT ProductName, Quantity
+FROM Products
+ORDER BY Quantity ASC;
+
+--📊 8. Group products by price range
+SELECT 
+    CASE 
+        WHEN Price < 10 THEN 'Under $10'
+        WHEN Price BETWEEN 10 AND 50 THEN '$10 - $50'
+        ELSE 'Above $50'
+    END AS PriceRange,
+    COUNT(*) AS ProductCount
+FROM Products
+GROUP BY 
+    CASE 
+        WHEN Price < 10 THEN 'Under $10'
+        WHEN Price BETWEEN 10 AND 50 THEN '$10 - $50'
+        ELSE 'Above $50'
+    END;
+
