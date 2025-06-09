@@ -1,3 +1,4 @@
+use InventoryDB
 --🔎 1. Show all products with category names (JOIN)
 SELECT 
     P.ProductID,
