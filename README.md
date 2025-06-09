@@ -1,12 +1,13 @@
 # 📊 **LearnSQLWithProjects**
-<img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLImage.png?raw=true" alt="JOIN Diagram" width="900"/>
 
-Welcome to **LearnSQLWithProjects** — a hands-on learning repo for practicing SQL queries with real-world scenarios.
+![SQL Projects Banner](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%20Projects.png?raw=true)
+ 
+## Welcome to **LearnSQLWithProjects** — a hands-on learning repo for practicing SQL queries with real-world scenarios.
 
-This repository is ideal for:
-- 🧑‍💻 SQL beginners building practical experience  
-- 📊 Data entry clerks, analysts, or aspiring database developers  
-- 💼 Job seekers preparing for interviews using SSMS or Azure Data Studio  
+## This repository is ideal for:
+- ### 🧑‍💻 SQL beginners building practical experience  
+- ### 📊 Data entry clerks, analysts, or aspiring database developers  
+- ### 💼 Job seekers preparing for interviews using SSMS or Azure Data Studio  
 
 ---
 
@@ -22,14 +23,15 @@ A mini inventory system with **categories and products** tables — ideal for pr
 - Writing basic `SELECT`, `JOIN`, and aggregate queries  
 
 **Included Files:**
-- [`create_tables.sql`](./Project1_Inventory/create_tables.sql)
-- [`insert_data.sql`](./Project1_Inventory/insert_data.sql)
-- [`join_practice.sql`](./Project1_Inventory/join_practice.sql)
-- [`inventory_analysis.ipynb`](./Project1_Inventory/inventory_analysis.ipynb)
+- [`01_create_tables.sql`](./Project1_Inventory/01_create_tables.sql)
+- [`02_insert_data.sql`](./Project1_Inventory/02_insert_data.sql)
+- [`03_basic_queries.sql`](./Project1_Inventory/03_basic_queries.sql)
+- [`04_Basic_Inventory_Queries_Result.ipynb`](./Project1_Inventory/04_Basic_Inventory_Queries_Result.ipynb)
+- [`Readme.md`](./Project1_Inventory/Readme.md)
 
 ---
 
-![SQL Projects Banner](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%20Projects.png?raw=true)
+
 
 ### 🚧 [📁 Project2_EmployeeRecords](./Project2_EmployeeRecords)
 
