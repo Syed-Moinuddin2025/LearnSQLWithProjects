@@ -42,6 +42,17 @@ A mini inventory system with customers, products, and orders tables.
 (Coming soon) Sales analytics project involving KPIs, time-based queries, and aggregation.
 
 ---
+## ☕ Support My Work
+
+### If this project helps you learn or build something cool, consider supporting my work!  
+
+### Your support keeps me motivated and helps me continue sharing quality content. 🙌
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow?style=flat-square)](https://coff.ee/syedmoin)  
+[![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue?style=flat-square)](https://paypal.me/syedmoinuddin101)
+
+## Thank you so much! 🙏
+
 
 ## 📌 Tools Used
 ![SQL & Azure Projects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%26Azur.png?raw=true)
