@@ -13,16 +13,21 @@
 
 ## 📁 Projects
 
-### ✅ [📁 Project1_Inventory](./Project1_Inventory)
+## [📁 Project1_Inventory](./Project1_Inventory)
 
-A mini inventory system with **categories and products** tables — ideal for practicing basic SQL with joins and aggregations.
+A mini inventory system featuring Categories and Products tables — perfect for practicing foundational SQL skills including joins, filters, and aggregations.
 
-**What you'll learn:**
-- Creating normalized tables with foreign keys  
-- Inserting sample data  
-- Writing basic `SELECT`, `JOIN`, and aggregate queries  
+What you’ll learn:
 
-**Included Files:**
+Designing normalized tables with primary and foreign keys
+
+Inserting and managing sample data
+
+Writing essential queries using SELECT, JOIN, WHERE, and aggregate functions like SUM, AVG, COUNT
+
+---
+
+## Included Files:
 - [`01_create_tables.sql`](./Project1_Inventory/01_create_tables.sql)
 - [`02_insert_data.sql`](./Project1_Inventory/02_insert_data.sql)
 - [`03_basic_queries.sql`](./Project1_Inventory/03_basic_queries.sql)
