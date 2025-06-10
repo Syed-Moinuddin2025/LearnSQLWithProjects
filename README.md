@@ -38,11 +38,21 @@ Writing essential queries using SELECT, JOIN, WHERE, and aggregate functions lik
 
 
 
-### 🚧 [📁 Project2_EmployeeRecords](./Project2_EmployeeRecords)
+### [📁 Project2_EmployeeRecords](./Project2_EmployeeRecords)
 
-**Coming soon:** A database system for managing employee details, departments, and salaries.
+📌 Status
+✅ Completed: Schema, data, queries, and notebook
+
+🚧 Next Steps: Advanced HR reports (attendance, promotions)
+
+
+🙌 Contribute or Connect
+If you'd like to contribute more query ideas or request a new feature, feel free to raise an issue or fork this repo.
 
 ---
+ 🔔 Don’t forget to check out Project 1: Mini Inventory(https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project1_Inventory)
+ 
+  🔜 Coming soon: Project 3 – Sales Analytics Dashboard
 
 ### 🚧 [📁 Project3_SalesAnalytics](./Project3_SalesAnalytics)
 
