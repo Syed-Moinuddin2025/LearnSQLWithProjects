@@ -50,10 +50,10 @@ Entity Relationship:
 
 ### If this project helps you learn or build something cool, consider supporting my work!  
 ### Your support keeps me motivated and helps me continue sharing quality content. 🙌
-
+ 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow?style=flat-square)](https://coff.ee/syedmoin)  
 [![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue?style=flat-square)](https://paypal.me/syedmoinuddin101)
-
+ 
 ---
 
 ## 📸 Preview
@@ -63,15 +63,19 @@ Entity Relationship:
 
 ---
 
-## 🧑‍💻 Practice Focus Areas
+## 📚 Skills Practiced
 
-- Relational Design (1:M relationships)
-- Employee job history using a junction table
-- Data analysis through SQL queries
-- Use of `JOIN`, `GROUP BY`, `MAX()`, and more
+- Writing clean SQL queries  
+- Using `CREATE TABLE`, `INSERT INTO`, `SELECT`, `WHERE`, `JOIN`, `GROUP BY`  
+- Understanding data structure relationships  
+- Working with real-world-like employee datasets  
+
+---
+✅ **Next Step**: Try creating your own queries or expand this project by adding new tables like `LeaveRecords`, `Salaries`, or `Attendance`.
 
 ---
 
+🔗 **Part of Repository**: [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 ## 📌 Coming Up
 
 - 🚀 `06_Advanced_Queries.sql` (CTEs, window functions)
