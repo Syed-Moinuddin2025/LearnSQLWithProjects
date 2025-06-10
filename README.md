@@ -11,7 +11,7 @@
 
 ---
 
-## 📁 Projects
+# 📁 All Projects Step By Step
 
 ## [📁 Project1_Inventory](./Project1_Inventory)
 
@@ -37,10 +37,17 @@ Writing essential queries using SELECT, JOIN, WHERE, and aggregate functions lik
 ---
 
 ### [📁 Project2_EmployeeRecords](./Project2_EmployeeRecords)
+📌 Status ✅ Completed: Schema, data, queries, and notebook
 
-📌 Status
-✅ Completed: Schema, data, queries, and notebook
-
+## Project Files – Employee Records Module
+This section contains all the SQL scripts and resources used in this module. Follow the files in sequence:
+- 📄 [01_create_tables.sql](./01_create_tables.sql)
+- 📄 [02_insert_data.sql](./02_insert_data.sql)
+- 📄 [03_basic_queries.sql](./03_basic_queries.sql)
+- 📄 [04_intermediate_queries.sql](./04_intermediate_queries.sql)
+- 🧾 [05_Employee_Queries_Result.ipynb](./05_Employee_Queries_Result.ipynb)
+- 📘 [README.md](./README.md)
+- 
 🚧 Next Steps: Advanced HR reports (attendance, promotions)
 
 
