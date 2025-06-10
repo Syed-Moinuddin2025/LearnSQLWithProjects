@@ -25,12 +25,12 @@ The purpose is to practice SQL fundamentals like:
 
 ## 📄 File Descriptions
 
-| File Name         | Description                            |
-|------------------|----------------------------------------|
-| create_tables.sql | SQL script to create both tables       |
-| insert_data.sql   | Insert 10 rows of sample data          |
-| queries.sql       | Basic queries for practice             |
-
+| File Name                   | Description                           |
+|------------------      |----------------------------------------    |
+| create_tables.sql    | SQL script to create both tables             |
+| insert_data.sql      | Insert 10 rows of sample data                |
+| queries.sql          | Basic queries for practice                   |
+| Basic_Inventory_Queries_Result.ipynb |  Queries With Results
 ---
 
 ## 📚 Sample Queries in `queries.sql`
