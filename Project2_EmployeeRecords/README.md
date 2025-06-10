@@ -22,41 +22,50 @@ Entity Relationship:
 
 ## 📂 Files Included
 
-| File Name                    | Description                                |
-|-----------------------------|--------------------------------------------|
-| `01_create_tables.sql`      | SQL script to create the tables            |
-| `02_insert_data.sql`        | Insert sample data into all 4 tables       |
-| `03_basic_queries.sql`      | Basic SELECT queries (viewing data)        |
-| `04_intermediate_queries.sql` | JOINs, aggregations, salary calculations |
-| `05_Employee_Queries_Result.ipynb` | Notebook with queries + output     |
+| File Name                        | Description                                |
+|-----------------------------     |--------------------------------------------|
+| `01_create_tables.sql`            | SQL script to create the tables            |
+| `02_insert_data.sql`              | Insert sample data into all 4 tables       |
+| `03_basic_queries.sql`             | Basic SELECT queries (viewing data)        |
+| `04_intermediate_queries.sql`      | JOINs, aggregations, salary calculations |
+| `05_Employee_Queries_Result.ipynb` | Notebook with queries + output           |
 
 ---
 
 ## 🔍 What You'll Learn
 
+- Writing SQL queries for:
+ - Salary breakdowns
+ - Employee job assignments
+ - Department-level reports
 - Table creation with proper relationships  
 - Running `JOIN` queries with multiple tables  
 - Salary calculation using expressions  
 - Grouping and filtering by department/job  
-- Using `INFORMATION_SCHEMA` for metadata checks  
+- Using `INFORMATION_SCHEMA` for metadata checks
+- Designing normalized employee tables with department & job history
+- Using foreign key relationships
+
 
 ---
 
 ## 📸 Preview
 
-<img src="https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/EmployeeDB_Diagram.png?raw=true" width="800" alt="Employee DB Structure"/>
+<img src="https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/daigram.png?raw=true" width="800" alt="Employee DB Structure"/>
+
 
 ---
 
-## ✅ Sample Query
+## 🧑‍💻 Practice Focus Areas
 
-```sql
-SELECT 
-    E.FirstName + ' ' + E.LastName AS FullName,
-    D.DepartmentName,
-    J.Title,
-    (S.BasicSalary + S.Allowance - S.Deductions) AS NetPay
-FROM Employees E
-JOIN Departments D ON E.DepartmentID = D.DepartmentID
-JOIN JobAssignments J ON E.EmployeeID = J.EmployeeID
-JOIN Salaries S ON E.EmployeeID = S.EmployeeID;
+- Relational Design (1:M relationships)
+- Employee job history using a junction table
+- Data analysis through SQL queries
+- Use of `JOIN`, `GROUP BY`, `MAX()`, and more
+
+---
+
+## 📌 Coming Up
+
+- 🚀 `06_Advanced_Queries.sql` (CTEs, window functions)
+- 📊 Visual dashboards using Power BI or Excel
