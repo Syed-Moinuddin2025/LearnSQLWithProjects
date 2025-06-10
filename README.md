@@ -69,6 +69,8 @@ If you'd like to contribute more query ideas or request a new feature, feel free
 If this project helps you learn or build something cool, consider supporting my work!  
 Your support keeps me motivated and helps me continue sharing quality content. 🙌
 
+UPI ID: 9701362151@kotak811
+
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow?style=flat-square)](https://coff.ee/syedmoin)  
 [![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue?style=flat-square)](https://paypal.me/syedmoinuddin101)
 
