@@ -36,8 +36,6 @@ Writing essential queries using SELECT, JOIN, WHERE, and aggregate functions lik
 
 ---
 
-
-
 ### [📁 Project2_EmployeeRecords](./Project2_EmployeeRecords)
 
 📌 Status
