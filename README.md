@@ -50,9 +50,13 @@ Writing essential queries using SELECT, JOIN, WHERE, and aggregate functions lik
 If you'd like to contribute more query ideas or request a new feature, feel free to raise an issue or fork this repo.
 
 ---
- 🔔 Don’t forget to check out Project 1: Mini Inventory(https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project1_Inventory)
+ 🔔 Don’t forget to check out [Project 1: Mini Inventory](./Project1_Inventory)
+
  
   🔜 Coming soon: Project 3 – Sales Analytics Dashboard
+
+  ---
+  
 
 ### 🚧 [📁 Project3_SalesAnalytics](./Project3_SalesAnalytics)
 
