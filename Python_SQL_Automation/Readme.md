@@ -1,4 +1,5 @@
-# Project: Employee Data Management with SQL and Python
+# Project: Employee Data Management with SQL and Python 
+![Python SQL Automation](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Automation/Images/python-sql.jpeg?raw=true)
 
 This project demonstrates a complete hands-on exercise for managing employee-related data using **SQL Server**, **Python**, and **CSV files**. It covers data creation, insertion, extraction, and automation using Python scripts.
 
