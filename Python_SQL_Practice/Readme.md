@@ -9,12 +9,18 @@ This project is a beginner-to-intermediate level practice setup that demonstrate
 Python_SQL_Practice/
 │
 ├── Python_SQL_Practice_DB.sql # SQL script to create & populate database
+
 ├── insert_data.py # Python script to insert records into SQL Server
+
 ├── fetch_data.py # (Optional) Python script to fetch and display data
+
 ├── export_to_csv.py # (Optional) Exports SQL tables to CSV files
-├── README.md # You’re here
+
+├── README.md 
+
 └── Images/
 └── python-sql.jpeg # Project banner or reference image
+
 ---
 
 ## 🧠 What You Will Learn
