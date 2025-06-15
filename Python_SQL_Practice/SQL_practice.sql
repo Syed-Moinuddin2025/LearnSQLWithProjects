@@ -40,11 +40,64 @@ ADD Bonus DECIMAL(10,2)
 
 -- 9. Update Bonus for an employee
 UPDATE Salaries
-SET  Bonus = 2500
+SET Bonus = 2500
 WHERE EmpID =205;
 
 -- 10. Drop the Bonus column 
 ALTER TABLE salaries
 DROP COLUMN Bonus;
 
+-- ✅ INTERMEDIATE LEVEL QUERIES (JOIN, GROUP BY, CASE)
+SELECT E.EmpID, FirstName, LastName, BasicSalary, Allowance
+FROM Employees E
+JOIN Salaries S ON E.EmpID = S.EmpID;
 
+-- 12. Join Employees with Departments
+SELECT E.FirstName , E.LastName , D.DeptName
+FROM Employees E
+JOIN Departments D ON E.DeptID = D.DeptID
+
+-- 13. Total Salary (Basic + Allowance) for each employee
+SELECT EmpID , (BasicSalary + Allowance) AS  TotalSalary
+From salaries
+
+-- 14. Use CASE to show tax status
+SELECT EmpID, BasicSalary,
+  CASE 
+    WHEN BasicSalary > 5000 THEN 'Taxable'
+    ELSE 'Non-Taxable'
+  END AS TaxStatus
+FROM Salaries;
+
+-- 15. Count employees in each department
+SELECT DeptID, COUNT(*) AS TotalEmployees
+FROM Employees
+GROUP BY DeptID;
+
+-- 16. Average salary per department
+SELECT E.DeptID, AVG(S.BasicSalary) AS AvgSalary
+FROM Employees E
+JOIN Salaries S ON E.EmpID = S.EmpID
+GROUP BY E.DeptID;
+
+-- 17. Employees who joined after 2022
+SELECT * FROM Employees
+WHERE JoinDate > '2022-01-01';
+
+-- 18. Get top 3 highest salaries
+SELECT TOP 3 EmpID, BasicSalary
+FROM Salaries
+ORDER BY BasicSalary DESC;
+
+-- 19. Employees without salary records
+SELECT *
+FROM Employees
+WHERE EmpID NOT IN (SELECT EmpID FROM Salaries);
+
+-- 20. Show full name and total salary
+SELECT FirstName + ' ' + LastName AS FullName,
+       (BasicSalary + Allowance - ISNULL(Deductions, 0)) AS NetSalary
+FROM Employees E
+JOIN Salaries S ON E.EmpID = S.EmpID;
+
+-- ✅ You're now practicing SELECT, INSERT, UPDATE, DELETE, ALTER, JOIN, GROUP BY, CASE
