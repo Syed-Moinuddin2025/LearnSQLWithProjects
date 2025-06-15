@@ -18,8 +18,6 @@ Python_SQL_Practice/
 
 ├── README.md 
 
-└── Images/
-└── python-sql.jpeg # Project banner or reference image
 
 ---
 
