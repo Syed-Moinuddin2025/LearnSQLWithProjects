@@ -60,9 +60,6 @@ Python_SQL_Practice/
 
 ---
 
-## 🖼 Project Preview
-
-![Python SQL Project](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Automation/Images/python-sql.jpeg)
 
 ---
 
