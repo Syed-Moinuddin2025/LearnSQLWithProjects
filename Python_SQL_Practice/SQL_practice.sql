@@ -101,3 +101,17 @@ FROM Employees E
 JOIN Salaries S ON E.EmpID = S.EmpID;
 
 -- ✅ You're now practicing SELECT, INSERT, UPDATE, DELETE, ALTER, JOIN, GROUP BY, CASE
+SELECT EmpID, Bonus FROM Salaries;
+
+SELECT COLUMN_NAME 
+FROM INFORMATION_SCHEMA.COLUMNS 
+WHERE TABLE_NAME = 'Salaries';
+
+UPDATE Salaries
+SET Bonus = 2500
+WHERE EmpID = 201;
+
+UPDATE Salaries
+SET Bonus = 1000
+WHERE Bonus IS NULL;
+
