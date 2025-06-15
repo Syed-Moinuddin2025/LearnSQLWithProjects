@@ -1,3 +1,7 @@
+## 🖼 Project Preview
+
+![Python SQL Project](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Practice/Images/Py_Sql.png)
+
 # 👋 Welcome SQL + Python Lover
 
 This project is a beginner-to-intermediate level practice setup that demonstrates how to use **Python** with **SQL Server** for real-world database automation tasks like inserting, retrieving, and managing employee data.
