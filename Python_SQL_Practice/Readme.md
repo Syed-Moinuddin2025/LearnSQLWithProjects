@@ -58,7 +58,6 @@ Python_SQL_Practice/
     python insert_data.py
     ```
 
----
 
 
 ---
