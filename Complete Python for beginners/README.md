@@ -5,7 +5,7 @@ Welcome to my Python learning journey! This repository contains beginner-friendl
 
 ## 📘 About This Project
 
-Each lesson is explained in simple language with examples and outputs using `.ipynb` (Jupyter Notebook) format.  
+Each lesson is explained in simple language with examples and outputs using VS Code (.py) format.  
 💻 You can practice in both **Jupyter Notebook** and **VS Code**.
 
 ---
