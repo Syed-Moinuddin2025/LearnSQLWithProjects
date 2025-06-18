@@ -1,4 +1,4 @@
-# 📊 **LearnSQLWithProjects**
+# 📊 **SQL-Python-Learning-Journey**
 
 ![SQL Projects Banner](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%20Projects.png?raw=true)
  
