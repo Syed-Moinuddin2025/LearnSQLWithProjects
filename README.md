@@ -51,12 +51,14 @@ This section contains all the SQL scripts and resources used in this module. Fol
 🚧 Next Steps: Advanced HR reports (attendance, promotions)
 
 
-🙌 Contribute or Connect
-If you'd like to contribute more query ideas or request a new feature, feel free to raise an issue or fork this repo.
+## 🙌 Contribute or Connect
+#### If you'd like to contribute more query ideas or request a new feature, feel free to raise an issue or fork this repo.
 
 ## 🐍 Python for Beginners
-
-### Explore my step-by-step learning journey in Python!  
+### Explore my step-by-step learning journey in Python! 
+📌 Python Basics – Step by Step
+I'm learning Python from scratch with hands-on practice.
+Each lesson includes short explanations, examples
 ### 👉 [Complete Python for Beginners](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Complete%20Python%20for%20beginners)
 This beginner-friendly series starts from absolute basics like:
 - ✅ Python syntax & `print()` statements  
@@ -66,9 +68,18 @@ This beginner-friendly series starts from absolute basics like:
 - ✅ File handling and basic error handling  
 - ✅ And much more coming soon!
 
-📘 All lessons are written with simple explanations and examples in `.ipynb` format, perfect for Jupyter Notebook practice.
+📘 All lessons are written with simple explanations and examples in `.ipynb` format,perfect for practice in Jupyter Notebook or VS Code with Python extension.
+### 🎥 Watch on YouTube
+ Follow my Python learning journey with visual explanations:
+
+🔗 Complete Python for beginners in Hindi - Part 1
+https://youtu.be/v9bOWjwdTlg?si=E1wP2YOkY7ir3fzi
+
+🔗 Complete Python for beginners in Hindi - Part 2
+https://youtu.be/Cri8__uGk-g?si=aQJlPLS7PQH7dJoG
+
 ---
- 🔔 Don’t forget to check out [Project 1: Mini Inventory](./Project1_Inventory)
+ ## 🔔 Don’t forget to check out [Project 1: Mini Inventory](./Project1_Inventory)
 
  
   🔜 Coming soon: Project 3 – Sales Analytics Dashboard
@@ -84,8 +95,8 @@ This beginner-friendly series starts from absolute basics like:
 
 ## ☕ Support My Work
 
-If this project helps you learn or build something cool, consider supporting my work!  
-Your support keeps me motivated and helps me continue sharing quality content. 🙌
+#### If this project helps you learn or build something cool, consider supporting my work!  
+#### Your support keeps me motivated and helps me continue sharing quality content. 🙌
 
 UPI ID: 9701362151@kotak811
 
