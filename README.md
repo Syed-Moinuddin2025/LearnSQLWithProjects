@@ -69,14 +69,12 @@ This beginner-friendly series starts from absolute basics like:
 - ✅ And much more coming soon!
 
 📘 All lessons are written with simple explanations and examples in `.ipynb` format,perfect for practice in Jupyter Notebook or VS Code with Python extension.
-### 🎥 Watch on YouTube
+### 🎥 Watch on YouTube Community Posts
  Follow my Python learning journey with visual explanations:
+ 
+🔗 Post 1: Complete Python for Beginners in Hindi – [Part 1 ](http://youtube.com/post/Ugkx8_eBVX3Y5S1jkLm22Sidf41HgMxOHZ3m?si=SD1LPZ76D7GNBQWp)
 
-🔗 Complete Python for beginners in Hindi - Part 1
-https://youtu.be/v9bOWjwdTlg?si=E1wP2YOkY7ir3fzi
-
-🔗 Complete Python for beginners in Hindi - Part 2
-https://youtu.be/Cri8__uGk-g?si=aQJlPLS7PQH7dJoG
+🔗 Post 2: Complete Python for Beginners in Hindi –[ Part 2](http://youtube.com/post/UgkxCfxe0uB8kFyyxpuN-vyKnnN5A54uUy-n?si=y3PCtqo7yFsIvogo)
 
 ---
  ## 🔔 Don’t forget to check out [Project 1: Mini Inventory](./Project1_Inventory)
