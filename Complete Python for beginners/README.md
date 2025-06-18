@@ -44,7 +44,7 @@ Each lesson is explained in simple language with examples and outputs using VS C
 
 Follow my visual explanations step-by-step:
 
-# Hitesh Sir Youtube Channel
+# Hitesh Sir Youtube Channel  (Chai aur Code)
 - 🔗 [Part 1: Python Basics](https://youtu.be/v9bOWjwdTlg?si=E1wP2YOkY7ir3fzi)
 - 🔗 [Part 2: Python Basicsd](https://youtu.be/Cri8__uGk-g?si=aQJlPLS7PQH7dJoG)
 
