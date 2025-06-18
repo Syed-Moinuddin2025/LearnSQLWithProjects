@@ -68,7 +68,7 @@ This beginner-friendly series starts from absolute basics like:
 - ✅ File handling and basic error handling  
 - ✅ And much more coming soon!
 
-📘 All lessons are written with simple explanations and examples in `.ipynb` format,perfect for practice in Jupyter Notebook or VS Code with Python extension.
+📘 All lessons are written with simple explanations and examples in  VS Code ,perfect for practice in Jupyter Notebook or VS Code with Python extension.
 ### 🎥 Watch on YouTube Community Posts
  Follow my Python learning journey with visual explanations:
  
