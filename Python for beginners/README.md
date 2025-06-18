@@ -22,21 +22,12 @@ Each lesson is explained in simple language with examples and outputs using VS C
 
 ---
 
-## 🧠 Assignments & Quizzes
 
-✅ At the end of each lesson, you'll find a **short quiz or assignment** to test your understanding.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Python%20for%20beginners/Py123.png" alt="Python Beginner Banner" width="800" height="400">
+</div>
 
----
-
-## ✅ Progress Tracker
-
-| Lesson No. | Topic                         | Status   |
-|------------|-------------------------------|----------|
-| Lesson 1   | print() Function              | ✅ Done   |
-| Lesson 2   | input() Function              | ✅ Done   |
-| Lesson 3   | Variables and Data Types      | ✅ Done   |
-| Lesson 4   | Operators in Python           | ✅ Done   |
-| Lesson 5   | Coming Soon                   | ⏳ Pending |
+ 
 
 ---
 
