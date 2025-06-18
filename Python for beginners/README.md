@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Python%20for%20beginners/Image/Py123.png" alt="Python Beginner Banner" width="800" height="400">
+</div>
 
 # 🐍 Complete Python for Beginners
 
@@ -19,16 +22,6 @@ Each lesson is explained in simple language with examples and outputs using VS C
 - Conditional statements  
 - Loops (coming soon!)  
 - Functions and more...
-
----
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Python%20for%20beginners/Py123.png" alt="Python Beginner Banner" width="800" height="400">
-</div>
-
- 
-
 ---
 
 ## 🎥 Watch on YouTube 
