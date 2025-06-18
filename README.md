@@ -54,6 +54,19 @@ This section contains all the SQL scripts and resources used in this module. Fol
 🙌 Contribute or Connect
 If you'd like to contribute more query ideas or request a new feature, feel free to raise an issue or fork this repo.
 
+## 🐍 Python for Beginners
+
+### Explore my step-by-step learning journey in Python!  
+### 👉 [Complete Python for Beginners](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Complete%20Python%20for%20beginners)
+This beginner-friendly series starts from absolute basics like:
+- ✅ Python syntax & `print()` statements  
+- ✅ Variables, data types, and operators  
+- ✅ Conditional statements and loops  
+- ✅ Functions, lists, and dictionaries  
+- ✅ File handling and basic error handling  
+- ✅ And much more coming soon!
+
+📘 All lessons are written with simple explanations and examples in `.ipynb` format, perfect for Jupyter Notebook practice.
 ---
  🔔 Don’t forget to check out [Project 1: Mini Inventory](./Project1_Inventory)
 
