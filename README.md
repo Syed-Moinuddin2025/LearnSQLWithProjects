@@ -59,7 +59,7 @@ This section contains all the SQL scripts and resources used in this module. Fol
 📌 Python Basics – Step by Step
 I'm learning Python from scratch with hands-on practice.
 Each lesson includes short explanations, examples
-### 👉 [Complete Python for Beginners](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Complete%20Python%20for%20beginners)
+### 👉 [Complete Python for Beginners](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey)
 This beginner-friendly series starts from absolute basics like:
 - ✅ Python syntax & `print()` statements  
 - ✅ Variables, data types, and operators  
