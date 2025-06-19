@@ -3,9 +3,9 @@
 
 score = 90
 
-if score >= 101:
+if score >  100:
 
-    print ("Please verify your grade again")
+    print ("Invalid score! Please verify your score again")
     exit()
 
 if score >=90:
