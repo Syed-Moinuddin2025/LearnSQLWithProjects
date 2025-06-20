@@ -16,8 +16,6 @@ This folder contains Python programs and practice problems based on **loops** (`
 
 ## 📘 Programs Included
 
-## 📘 Programs Included
-
 | No. | File Name                        | Description                                        |
 |-----|----------------------------------|----------------------------------------------------|
 | 01  | `01_count_positive.py`           | Count positive numbers from user input             |
@@ -29,12 +27,10 @@ This folder contains Python programs and practice problems based on **loops** (`
 | 07  | `07_validate_input.py`           | Validate user input using loop and condition       |
 | 08  | `08_prime_checker.py`            | Check whether a number is a prime number           |
 | 09  | `09_unique_list_checker.py`      | Check if all items in a list are unique            |
-| 10  | `10_exponential_backoff.py`      | Simulate retry logic using exponential backoff  
+| 10  | `10_exponential_backoff.py`      | Simulate retry logic using exponential backoff     |
+
 > ✅ You can rename or renumber your files as needed to match this structure.
 
 ---
 
 ## 🚀 Folder Structure in Project
-
-This folder is part of a structured Python learning path:
-
