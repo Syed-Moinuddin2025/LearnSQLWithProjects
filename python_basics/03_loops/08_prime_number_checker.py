@@ -1,3 +1,6 @@
+# 8. Prime Number Checker
+# Problem: Check if a number is prime.
+
 number = 28
 is_prime = True
 
