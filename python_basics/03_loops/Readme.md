@@ -16,20 +16,20 @@ This folder contains Python programs and practice problems based on **loops** (`
 
 ## 📘 Programs Included
 
-| No. | File Name                     | Description                                        |
-|-----|-------------------------------|----------------------------------------------------|
-| 01  | `01_loops_basics.py`          | Intro to `for` and `while` loops                   |
-| 02  | `02_count_positive.py`        | Count positive numbers from user input             |
-| 03  | `03_sum_even_numbers.py`      | Calculate sum of even numbers within a range       |
-| 04  | `04_multiplication_table.py`  | Print multiplication table for any number          |
-| 05  | `05_reverse_string.py`        | Reverse a given string using loop                  |
-| 06  | `06_first_unique_char.py`     | Find first non-repeated character in a string      |
-| 07  | `07_factorial_calculator.py`  | Calculate factorial using loop                     |
-| 08  | `08_validate_input.py`        | Ensure input is valid using loop-based checks      |
-| 09  | `09_prime_checker.py`         | Check whether a number is prime                    |
-| 10  | `10_unique_list_checker.py`   | Check if all items in a list are unique            |
-| 11  | `11_exponential_backoff.py`   | Retry logic with exponential backoff (loop+delay)  |
+## 📘 Programs Included
 
+| No. | File Name                        | Description                                        |
+|-----|----------------------------------|----------------------------------------------------|
+| 01  | `01_count_positive.py`           | Count positive numbers from user input             |
+| 02  | `02_sum_even_numbers.py`         | Calculate sum of even numbers within a range       |
+| 03  | `03_multiplication_table.py`     | Print multiplication table for any number          |
+| 04  | `04_reverse_string.py`           | Reverse a given string using a loop                |
+| 05  | `05_first_unique_char.py`        | Find the first non-repeated character in a string  |
+| 06  | `06_factorial_calculator.py`     | Calculate factorial using a loop                   |
+| 07  | `07_validate_input.py`           | Validate user input using loop and condition       |
+| 08  | `08_prime_checker.py`            | Check whether a number is a prime number           |
+| 09  | `09_unique_list_checker.py`      | Check if all items in a list are unique            |
+| 10  | `10_exponential_backoff.py`      | Simulate retry logic using exponential backoff  
 > ✅ You can rename or renumber your files as needed to match this structure.
 
 ---
