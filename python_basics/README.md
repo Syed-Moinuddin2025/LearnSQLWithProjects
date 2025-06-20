@@ -1,8 +1,8 @@
+# 🐍 Complete Python for Beginners
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/python_basics/Image/Py123.png" alt="Python Beginner Banner" width="800" height="400">
 </div>
-
-# 🐍 Complete Python for Beginners
 
 Welcome to my Python learning journey! This repository contains beginner-friendly lessons, practice exercises, and assignments—all designed to help anyone learn Python step-by-step.
 
@@ -22,13 +22,15 @@ Each lesson is explained in simple language with examples and outputs using VS C
 - Conditional statements  
 - Loops (coming soon!)  
 - Functions and more...
+
 ---
 
-## 🎥 Watch on YouTube 
+## 🎥 Watch on YouTube
 
 Follow my visual explanations step-by-step:
 
 # Hitesh Sir Youtube Channel  (Chai aur Code)
+
 - 🔗 [Part 1: Python Basics](https://youtu.be/v9bOWjwdTlg?si=E1wP2YOkY7ir3fzi)
 - 🔗 [Part 2: Python Basicsd](https://youtu.be/Cri8__uGk-g?si=aQJlPLS7PQH7dJoG)
 
