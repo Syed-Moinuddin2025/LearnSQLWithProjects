@@ -13,6 +13,6 @@ elif species == "cat":
     if age > 5:
         food = "Senior cat food"
 else:
-       food = "Reguler cat food"    
+       food = "Regular uler cat food"    
               
 print(f"Pet: {species}, Age: {age} → Recommended food: {food}")
