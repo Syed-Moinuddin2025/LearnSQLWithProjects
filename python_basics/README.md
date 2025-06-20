@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Python%20for%20beginners/Image/Py123.png" alt="Python Beginner Banner" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/python_basics/Image/Py123.png" alt="Python Beginner Banner" width="800" height="400">
 </div>
 
 # 🐍 Complete Python for Beginners
