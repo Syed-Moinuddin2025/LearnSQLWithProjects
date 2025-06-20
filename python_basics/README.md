@@ -1,8 +1,6 @@
 # 🐍 Complete Python for Beginners
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/python_basics/Image/Py123.png" alt="Python Beginner Banner" width="800" height="400">
-</div>
+![Python Beginner Banner](https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/python_basics/Image/Py123.png)
 
 Welcome to my Python learning journey! This repository contains beginner-friendly lessons, practice exercises, and assignments—all designed to help anyone learn Python step-by-step.
 
@@ -27,28 +25,12 @@ Each lesson is explained in simple language with examples and outputs using VS C
 
 ## 🎥 Watch on YouTube
 
-Follow my visual explanations step-by-step:
-
-# Hitesh Sir Youtube Channel  (Chai aur Code)
+**Hitesh Sir's YouTube Channel (Chai aur Code):**
 
 - 🔗 [Part 1: Python Basics](https://youtu.be/v9bOWjwdTlg?si=E1wP2YOkY7ir3fzi)
-- 🔗 [Part 2: Python Basicsd](https://youtu.be/Cri8__uGk-g?si=aQJlPLS7PQH7dJoG)
+- 🔗 [Part 2: Python Basics](https://youtu.be/Cri8__uGk-g?si=aQJlPLS7PQH7dJoG)
 
 ---
-
-## 📂 Folder Structure
-
-```
-Complete Python for Beginners/
-├── Lesson 1 - print function.ipynb
-├── Lesson 2 - input function.ipynb
-├── Lesson 3 - variables and types.ipynb
-├── Lesson 4 - operators.ipynb
-├──  comming soon
-│   ├── lesson_1_quiz.ipynb
-│   └── ...
-└── README.md
-```
 
 ---
 
