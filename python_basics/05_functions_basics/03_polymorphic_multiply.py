@@ -1,3 +1,6 @@
+# 3. Polymorphism in Functions
+# Problem: Write a function multiply that multiplies two numbers, but can also accept and multiply strings.
+
 def multiply(a, b):
     """Multiplies numbers or repeats a string."""
     return a * b
