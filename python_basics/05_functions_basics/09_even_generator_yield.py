@@ -7,6 +7,12 @@ def even_generator(limit) :
 for num in even_generator(10):
     print(num)
 
+print("----------------------Next-----------------------------")
 
+def even_numbers(limit):
+    for num in range(1, limit + 1):
+        if num % 2 == 0:
+            yield num 
 
-
+for num in even_numbers(10):
+        print(num)
