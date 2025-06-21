@@ -1,33 +1,29 @@
 # 07_file_readline.py
-# Topic: Reading lines from a file using open(), readline(), and for-loop
+# Topic: Reading lines from a file using open(), readline(), and for-loop (with path handling)
 
-# 📌 Make sure you have a text file named 'sample.txt' in the same folder
-# Content of sample.txt:
-# Apple
-# Banana
-# Mango
-# Orange
+import os
 
-# 🔹 Method 1: Using readline() - read only first line
+# ✅ Safely build file path
+file_path = os.path.join("04_iteration_tools", "sample.txt")
+
+# 🔹 Read first line
 print("Reading one line using readline():")
-file = open("sample.txt", "r")
-line1 = file.readline()
-print("First Line:", line1.strip())
-file.close()
+with open(file_path, "r") as file:
+    first_line = file.readline()
+    print("First Line:", first_line.strip())
 
 print("\n")
 
-# 🔹 Method 2: Reading all lines using for loop
+# 🔹 Read all lines using loop
 print("Reading all lines using a loop:")
-file = open("sample.txt", "r")
-for line in file:
-    print(line.strip())  # strip() removes \n
-file.close()
+with open(file_path, "r") as file:
+    for line in file:
+        print(line.strip())
 
 print("\n")
 
-# 🔹 Method 3: Safe method using with open()
+# 🔹 Safe method already used with 'with open()'
 print("Reading safely with 'with open() as' block:")
-with open("sample.txt", "r") as f:
+with open(file_path, "r") as f:
     for line in f:
         print(line.strip())
