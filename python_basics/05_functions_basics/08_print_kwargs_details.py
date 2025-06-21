@@ -6,3 +6,7 @@ def print_kwargs ( ** kwargs):
         print(f"{key}: {value}")
 
 print_kwargs (name="shaktiman", power="lazer",enemy = "Dr. Jackaal")
+
+print_kwargs(name="Syed", age=25, country="India") 
+
+print_kwargs(language="Python", level="Beginner", enrolled=True))
