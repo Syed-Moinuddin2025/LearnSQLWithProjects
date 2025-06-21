@@ -1,36 +1,41 @@
-# 🔁 Python Loops Practice – 03_loops
+# 🔁 Loops Basics – Python Practice Problems
 
-This folder contains Python programs and practice problems based on **loops** (`for`, `while`) and iteration logic. These are designed to help beginners build a strong understanding of loop-based programming.
-
----
-
-## 🧠 What You'll Practice
-
-- Looping with `for` and `while`
-- Working with strings and numbers
-- Using `break`, `continue`, and loop logic
-- Input validation and nested loops
-- Real-world loop-based exercises
+This folder contains 10 beginner-friendly Python loop problems. Each exercise is designed to build a strong understanding of `for` and `while` loops through real-world logic.
 
 ---
 
-## 📘 Programs Included
+## 📚 Problems Index
 
-| No. | File Name                        | Description                                        |
-|-----|----------------------------------|----------------------------------------------------|
-| 01  | `01_count_positive.py`           | Count positive numbers from user input             |
-| 02  | `02_sum_even_numbers.py`         | Calculate sum of even numbers within a range       |
-| 03  | `03_multiplication_table.py`     | Print multiplication table for any number          |
-| 04  | `04_reverse_string.py`           | Reverse a given string using a loop                |
-| 05  | `05_first_unique_char.py`        | Find the first non-repeated character in a string  |
-| 06  | `06_factorial_calculator.py`     | Calculate factorial using a loop                   |
-| 07  | `07_validate_input.py`           | Validate user input using loop and condition       |
-| 08  | `08_prime_checker.py`            | Check whether a number is a prime number           |
-| 09  | `09_unique_list_checker.py`      | Check if all items in a list are unique            |
-| 10  | `10_exponential_backoff.py`      | Simulate retry logic using exponential backoff     |
-
-> ✅ You can rename or renumber your files as needed to match this structure.
+| #   | Problem Title                      | Description                                                                 | File Name                               |
+|-----|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|
+| ✅ 1 | Counting Positive Numbers          | Count how many numbers in a list are positive                              | `01_count_positive_numbers.py`          |
+| ✅ 2 | Sum of Even Numbers                | Calculate the sum of even numbers up to a given number `n`                 | `02_sum_even_numbers.py`                |
+| ✅ 3 | Multiplication Table Printer       | Print multiplication table up to 10, skipping the 5th iteration            | `03_multiplication_table_skip_5.py`     |
+| ✅ 4 | Reverse a String                   | Reverse a string using a `for` loop                                        | `04_reverse_string.py`                  |
+| ✅ 5 | First Non-Repeated Character       | Find the first character that is not repeated in a string                  | `05_first_non_repeated_character.py`    |
+| ✅ 6 | Factorial Calculator               | Compute the factorial of a number using a `while` loop                     | `06_factorial_while_loop.py`            |
+| ✅ 7 | Validate Input                     | Ask user input repeatedly until it’s between 1 and 10                      | `07_validate_input.py`                  |
+| ✅ 8 | Prime Number Checker               | Check whether a number is prime or not                                     | `08_prime_number_checker.py`            |
+| ✅ 9 | List Uniqueness Checker            | Check if all elements in a list are unique, print duplicate if found       | `09_list_uniqueness_checker.py`         |
+| ✅10 | Exponential Backoff                | Double wait time for each retry (up to 5 times) to simulate retry delay    | `10_exponential_backoff.py`             |
 
 ---
 
-## 🚀 Folder Structure in Project
+## 🚀 Practice Goals
+
+- Understand `for` vs `while` loops
+- Use `break`, `continue`, and conditionals inside loops
+- Practice real-world logic patterns
+- Build habits for clean and readable code
+
+---
+
+## 🧠 Tips
+
+- Add input validation for user-driven problems
+- Print debug values while learning
+- Try to rewrite each problem in both `for` and `while` loop styles
+
+---
+
+Happy Coding! 🐍💡
