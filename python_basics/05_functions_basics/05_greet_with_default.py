@@ -3,7 +3,7 @@
 
 
 def greet(name="Guest"):
-    """Greets the user with a default name if none is provided."""
+    #Greets the user with a default name if none is provided.
     print(f"Hello, {name}!")
 
 # Example usage:
